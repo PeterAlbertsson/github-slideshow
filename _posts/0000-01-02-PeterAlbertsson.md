@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hard to stay on task...
+When learning new skills.
 Use the left arrow to go back!
+
